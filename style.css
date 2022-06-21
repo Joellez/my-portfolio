@@ -110,42 +110,30 @@ p {
     font-size: 48px;
     line-height: 1.5;
   }
-}
-@media (max-width: 576px) {
+
   h2 {
     font-size: 32px;
   }
-}
-@media (max-width: 576px) {
   .homepage-image {
     display: none;
   }
-}
-@media (max-width: 576px) {
   p {
     text-align: center;
     padding: 0;
   }
-}
-@media (max-width: 576px) {
   .project-link {
     display: block;
     margin: 0 20px;
     text-align: center;
   }
-}
-@media (max-width: 576px) {
   .margin-top {
     margin-top: 20px;
   }
-}
-@media (max-width: 576px) {
+
   .spacing-fix {
     padding: 0px;
     margin-left: 2px;
   }
-}
-@media (max-width: 576px) {
   .contact {
     padding-top: 20px;
   }
