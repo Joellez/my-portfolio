@@ -98,6 +98,9 @@ p {
   color: white;
 }
 
+.primary-link:hover {
+  color: white;
+}
 .about-paragraphs {
   margin: 10px;
 }
